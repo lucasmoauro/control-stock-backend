@@ -1,0 +1,3 @@
+node app
+
+cmd /k
